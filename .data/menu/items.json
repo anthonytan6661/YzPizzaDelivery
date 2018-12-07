@@ -1,0 +1,5 @@
+[
+{"id":"P001", "Name":"Hawaiian Supreme", "Description":"with tomato sauce, chicken meat, chicken loaf, pineapples, mozzarella cheese.", "unitPrice": 15},
+{"id":"P002", "Name":"Blazing Seafood", "Description":"with spicy sweet sour sauce, tuna, crabsticks, pineapples, capsicums, onions, mozzarella cheese.", "unitPrice": 25},
+{"id":"P003", "Name":"Beef Pepperoni", "Description":"with tomato sauce, beef pepperoni, mozzarella cheese.", "unitPrice": 27}  
+]
